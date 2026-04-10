@@ -47,7 +47,7 @@ The system:
 
 ThingSpeak Dashboard Screenshot:
 
-![Dashboard](images/dashboard.png)
+![Dashboard](live-dashboard.jpeg)
 
 ## 🔌 Hardware Components
 
@@ -64,7 +64,7 @@ ThingSpeak Dashboard Screenshot:
 
 ## 🎥 Project Demo
 
-[Watch Demo Video](video/demo.mp4)
+[Watch Demo Video](demo.mp4)
 
 ## 📈 Results
 
