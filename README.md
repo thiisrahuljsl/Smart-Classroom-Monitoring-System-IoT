@@ -60,7 +60,7 @@ ThingSpeak Dashboard Screenshot:
 
 ## 🔧 Circuit Diagram
 
-![Circuit](circuit-dig.jpeg)
+![Circuit](Circuit-Diagram/circuit-dig.jpeg)
 
 ## 🎥 Project Demo
 
